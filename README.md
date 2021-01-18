@@ -1,11 +1,10 @@
 # MoviesGallery
 
-This task is movies gallery 
+This task is movies gallery <br />
 
-# MoviesGallery
-to run this task plz run the following commands after clone 
+to run this task plz run the following commands after clone <br />
 
-1- yarn install or npm install 
-2- cd ./ios && pod install && ../
-2- npx react-native start
+1- yarn install or npm install <br />
+2- cd ./ios && pod install && ../<br />
+2- npx react-native start<br />
 3- npx react-native run-android or npx react-native run-android
